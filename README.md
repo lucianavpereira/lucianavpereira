@@ -1,8 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120%section=header" />
 
 
-##
-Este perfil está em processo de atualização | Aluno | Desenvolvedor Web | HTML | CSS | JavaScript
+
 ##
 
  <div style="display: inline_block"><br>
